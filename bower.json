@@ -6,6 +6,11 @@
     "oumind"
   ],
   "description": "ngCordova Wrapper for ng-cordova-pingxx feature",
-  "main": "pingxx.js",
+  "main": [
+    "./src/pingxx.js"
+  ],
+  "ignore": [
+    "**/.*"
+  ],
   "license": "Apache Licence 2.0"
 }
