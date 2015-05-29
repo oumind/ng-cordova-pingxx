@@ -1,0 +1,11 @@
+{
+  "name": "ng-cordova-pingxx",
+  "version": "0.1.0",
+  "homepage": "https://github.com/oumind/ng-cordova-pingxx",
+  "authors": [
+    "oumind"
+  ],
+  "description": "ngCordova Wrapper for ng-cordova-pingxx feature",
+  "main": "pingxx.js",
+  "license": "Apache Licence 2.0"
+}
